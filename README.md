@@ -15,19 +15,13 @@ npm run dev
 - Les traces sont dans `public/routes/*.geojson`.
 - Les composants ne contiennent pas de donnees metier hardcodees.
 
-Les donnees actuelles sont des donnees provisoires de structure, car l'extraction automatique de `TCM26.2.0.pdf` n'a pas pu etre executee dans cet environnement sans outil PDF disponible. Il faut remplacer les valeurs de `src/data/stages.ts` et les traces GeoJSON par les donnees officielles extraites du PDF.
+Les donnees ont ete extraites de `TCM26.2.0.pdf`. Les traces GeoJSON sont reconstruites depuis les points de passage du PDF; elles pourront etre remplacees par des traces GPS officielles si elles deviennent disponibles.
 
 ## Live tracking
 
-`src/services/liveTrackingService.ts` expose une interface `LiveTrackingService`.
+`src/services/liveTrackingService.ts` expose une interface `LiveTrackingService`, mais le live tracking n'est pas affiche dans l'interface pour le moment.
 
-Le service actif est `mockLiveTrackingService`, qui simule:
-
-- le peloton;
-- une echappee;
-- la direction course.
-
-Pour brancher Supabase Realtime ou Firebase, creer un service qui implemente la meme methode `subscribe(stageRoute, onUpdate)` puis l'injecter dans `useLiveTracking`.
+Pour brancher Supabase Realtime ou Firebase plus tard, creer un service qui implemente la meme methode `subscribe(stageRoute, onUpdate)` puis l'injecter dans `useLiveTracking`.
 
 ## PWA
 
