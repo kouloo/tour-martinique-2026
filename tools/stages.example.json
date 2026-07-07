@@ -1,0 +1,37 @@
+{
+  "stages": [
+    {
+      "id": "stage-08-2",
+      "number": 9,
+      "date": "2026-07-11",
+      "title": "Etape 8.2 CLM - Riviere-Pilote / La Renee",
+      "start": "Riviere-Pilote",
+      "finish": "La Renee",
+      "distanceKm": 9.8,
+      "points": [
+        {
+          "id": "stage-08-2-p1",
+          "category": "depart-reel",
+          "label": "Depart reel - RN8",
+          "municipality": "Riviere-Pilote",
+          "route": "RN8",
+          "kilometer": 0,
+          "remainingKm": 9.8,
+          "times": ["15:30", "15:30"],
+          "coordinates": [-60.9023, 14.4863]
+        },
+        {
+          "id": "stage-08-2-p2",
+          "category": "arrivee",
+          "label": "Arrivee ecole La Renee",
+          "municipality": "La Renee",
+          "route": "RN8",
+          "kilometer": 9.8,
+          "remainingKm": 0,
+          "times": ["15:46", "15:45"],
+          "coordinates": [-60.921, 14.525]
+        }
+      ]
+    }
+  ]
+}
