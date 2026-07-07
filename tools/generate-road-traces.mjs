@@ -21,6 +21,7 @@ Options:
   --tolerance-km <number>     Distance warning threshold. Default: ${DEFAULT_DISTANCE_TOLERANCE_KM}
   --retries <number>          HTTP retries for geocoding/routing. Default: 2
   --timeout-ms <number>       HTTP timeout. Default: 30000
+  --max-routing-points <n>    Maximum points per routing request. Default: 5 for GraphHopper, 100 for OSRM
   --help                      Show this help.
 
 Input shape:
@@ -33,6 +34,7 @@ Input shape:
         "distanceKm": 128.8,
         "start": "Riviere-Salee",
         "finish": "Marin",
+        "routeCoordinates": [[-60.9775, 14.5271], [-60.9029, 14.6162], [-60.8692, 14.4726]],
         "points": [
           {
             "label": "Depart reel - RN5",
@@ -93,6 +95,12 @@ function parseArgs(argv) {
   }
   if (!Number.isFinite(args.timeoutMs) || args.timeoutMs < 1000) {
     throw new Error('--timeout-ms must be at least 1000.');
+  }
+  args.maxRoutingPoints = args.maxRoutingPoints == null
+    ? undefined
+    : Number(args.maxRoutingPoints);
+  if (args.maxRoutingPoints != null && (!Number.isFinite(args.maxRoutingPoints) || args.maxRoutingPoints < 2)) {
+    throw new Error('--max-routing-points must be at least 2.');
   }
 
   return args;
@@ -287,7 +295,10 @@ async function geocodeStage(stage, cache, args) {
 function distinctRoutingCoordinates(points) {
   const coordinates = [];
   for (const point of points) {
-    const current = point.coordinates;
+    const current = Array.isArray(point) ? point : point.coordinates;
+    if (!isCoordinate(current)) {
+      continue;
+    }
     const previous = coordinates[coordinates.length - 1];
     if (!previous || previous[0] !== current[0] || previous[1] !== current[1]) {
       coordinates.push(current);
@@ -336,7 +347,8 @@ async function routeWithGraphHopper(coordinates, apiKey, args) {
 
   const response = await fetchWithRetry(url, {}, args);
   if (!response.ok) {
-    throw new Error(`GraphHopper failed: ${response.status} ${response.statusText}`);
+    const body = await response.text();
+    throw new Error(`GraphHopper failed: ${response.status} ${response.statusText} ${body.slice(0, 500)}`);
   }
 
   const data = await response.json();
@@ -352,9 +364,35 @@ async function routeWithGraphHopper(coordinates, apiKey, args) {
 }
 
 async function routeStage(stage, args) {
-  const coordinates = distinctRoutingCoordinates(stage.points);
+  const routingSource = Array.isArray(stage.routeCoordinates) && stage.routeCoordinates.length
+    ? stage.routeCoordinates
+    : stage.points;
+  const coordinates = distinctRoutingCoordinates(routingSource);
   if (coordinates.length < 2) {
     throw new Error(`${stage.id} needs at least two distinct points to route.`);
+  }
+
+  const maxRoutingPoints = args.maxRoutingPoints ?? (args.router === 'graphhopper' ? 5 : 100);
+  if (coordinates.length > maxRoutingPoints) {
+    const chunks = [];
+    for (let start = 0; start < coordinates.length - 1; start += maxRoutingPoints - 1) {
+      chunks.push(coordinates.slice(start, Math.min(coordinates.length, start + maxRoutingPoints)));
+    }
+
+    const merged = {
+      coordinates: [],
+      distanceKm: 0,
+      durationSeconds: 0
+    };
+
+    for (const chunk of chunks) {
+      const segment = await routeStage({ ...stage, routeCoordinates: chunk, points: [] }, { ...args, maxRoutingPoints: chunk.length });
+      merged.coordinates.push(...(merged.coordinates.length ? segment.coordinates.slice(1) : segment.coordinates));
+      merged.distanceKm += segment.distanceKm;
+      merged.durationSeconds += segment.durationSeconds ?? 0;
+    }
+
+    return merged;
   }
 
   if (args.router === 'osrm') {

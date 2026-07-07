@@ -60,7 +60,10 @@ export function SplitMapLayout({ mode, map, panel, onCyclePanel, onPanelModeChan
         >
           <span />
         </button>
-        <div className="sheet-content">{panel}</div>
+        <div className="sheet-content">
+          {panel}
+          <footer className="sheet-footer">Copyright Kouloo 2026</footer>
+        </div>
       </section>
     </div>
   );

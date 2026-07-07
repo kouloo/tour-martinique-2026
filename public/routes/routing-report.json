@@ -1,0 +1,101 @@
+[
+  {
+    "id": "prologue",
+    "title": "Prologue - Fort-de-France / Fort-de-France",
+    "officialDistanceKm": 4.2,
+    "calculatedDistanceKm": 4.99,
+    "distanceDeltaKm": 0.79,
+    "warning": false,
+    "coordinateCount": 160
+  },
+  {
+    "id": "stage-01",
+    "title": "Etape 1 - Riviere-Salee / Marin",
+    "officialDistanceKm": 128.8,
+    "calculatedDistanceKm": 75.64,
+    "distanceDeltaKm": -53.16,
+    "warning": true,
+    "coordinateCount": 2249
+  },
+  {
+    "id": "stage-02",
+    "title": "Etape 2 - Marin / Gros-Morne",
+    "officialDistanceKm": 122,
+    "calculatedDistanceKm": 79.39,
+    "distanceDeltaKm": -42.61,
+    "warning": true,
+    "coordinateCount": 2892
+  },
+  {
+    "id": "stage-03",
+    "title": "Etape 3 - Sainte-Anne / Macouba",
+    "officialDistanceKm": 115.2,
+    "calculatedDistanceKm": 114.79,
+    "distanceDeltaKm": -0.41,
+    "warning": false,
+    "coordinateCount": 3686
+  },
+  {
+    "id": "stage-04",
+    "title": "Etape 4 - Fort-de-France / Lorrain",
+    "officialDistanceKm": 108.5,
+    "calculatedDistanceKm": 51.23,
+    "distanceDeltaKm": -57.27,
+    "warning": true,
+    "coordinateCount": 1931
+  },
+  {
+    "id": "stage-05",
+    "title": "Etape 5 - Lorrain / Sainte-Marie",
+    "officialDistanceKm": 120.1,
+    "calculatedDistanceKm": 102.27,
+    "distanceDeltaKm": -17.83,
+    "warning": true,
+    "coordinateCount": 3705
+  },
+  {
+    "id": "stage-06",
+    "title": "Etape 6 - Sainte-Marie / Francois",
+    "officialDistanceKm": 117.7,
+    "calculatedDistanceKm": 85.19,
+    "distanceDeltaKm": -32.51,
+    "warning": true,
+    "coordinateCount": 2936
+  },
+  {
+    "id": "stage-07",
+    "title": "Etape 7 - Francois / Saint-Esprit",
+    "officialDistanceKm": 135.7,
+    "calculatedDistanceKm": 84.92,
+    "distanceDeltaKm": -50.78,
+    "warning": true,
+    "coordinateCount": 3109
+  },
+  {
+    "id": "stage-08-1",
+    "title": "Etape 8.1 - Saint-Esprit / Riviere-Pilote",
+    "officialDistanceKm": 90.8,
+    "calculatedDistanceKm": 43.51,
+    "distanceDeltaKm": -47.29,
+    "warning": true,
+    "coordinateCount": 1703
+  },
+  {
+    "id": "stage-08-2",
+    "title": "Etape 8.2 CLM - Riviere-Pilote / La Renee",
+    "officialDistanceKm": 9.8,
+    "calculatedDistanceKm": 6.86,
+    "distanceDeltaKm": -2.94,
+    "warning": false,
+    "coordinateCount": 286
+  },
+  {
+    "id": "stage-09",
+    "title": "Etape 9 - Riviere-Pilote / Ducos",
+    "officialDistanceKm": 139,
+    "calculatedDistanceKm": 48.69,
+    "distanceDeltaKm": -90.31,
+    "warning": true,
+    "coordinateCount": 1992
+  }
+]

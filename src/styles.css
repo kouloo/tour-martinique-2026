@@ -123,6 +123,13 @@ select {
   scrollbar-color: rgba(178, 255, 139, 0.5) transparent;
 }
 
+.sheet-footer {
+  padding: 22px 0 6px;
+  color: rgba(169, 200, 208, 0.72);
+  font-size: 0.78rem;
+  text-align: center;
+}
+
 .stage-map {
   width: 100%;
   height: 100%;
@@ -135,8 +142,12 @@ select {
 }
 
 .leaflet-control-attribution {
-  color: rgba(255, 255, 255, 0.62);
-  background: rgba(16, 17, 17, 0.72) !important;
+  display: none !important;
+}
+
+.leaflet-marker-icon[src$="marker-icon-2x.png"],
+.leaflet-marker-icon[src*="marker-icon-2x.png"] {
+  display: none !important;
 }
 
 .glass-button,

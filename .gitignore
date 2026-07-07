@@ -7,3 +7,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+tools/.geocode-cache.json
+tools/stages.generated.json
+tools/stages.remaining.json
