@@ -1,0 +1,1447 @@
+
+
+-- 1 of 31 --
+
+39 KM/H 41KM/H
+RD42 0,0 4,2 15:00 15:00 DEPART REEL
+RN1 0,3 3,9 15:00 15:00
+RN1 0,6 3,6 15:00 15:00
+RN1 1,2 3,0 15:01 15:01
+RN1 2,0 2,2 15:03 15:02
+RN1 2,1 2,1 15:03 15:03
+RN1 2,8 1,4 15:04 15:04
+RN1 3,4 0,8 15:05 15:04
+RN1 3,8 0,4 15:05 15:05
+RD42 3,9 0,3 15:06 15:05
+RD42 4,2 0,0 15:06 15:06 ARRIVEE
+FORT-DE-FRANCE / FORT-DE-FRANCE.
+Giratoire Jules ALARIC
+Place François MITTERRAND
+Rue Bouillée
+ARRIVEE face Direction de la Mer
+FORT-DE-FRANCE.
+Rue Bouillée (couloir TCSP)
+Avenue Maurice Bishop
+Giratoire Jules ALARIC
+Giratoire Kerlys (demi-tour)
+Avenue Maurice Bishop
+Parcours
+N° De
+Route
+Giratoire Charbonière
+Giratoire Charbonière
+VENDREDI 03 JUILLET 2026
+Prologue : Kms 12h00 : Rassemblement
+14h45 : Appel des Coureurs 15h00 Départ Réel
+Itinéraires Kms
+parcourus
+Kms
+restants
+Hr passage : Moyenne
+Indications
+
+-- 2 of 31 --
+
+
+
+-- 3 of 31 --
+
+37 KM/H 39KM/H
+VC 9:50 9:50 DEPART FICTIF
+RN5 0,0 128,8 10:00 10:00 DEPART REEL
+RN5 1,6 127,2 10:02 10:02
+RN8 3,1 125,7 10:05 10:04
+RD6 3,8 125,0 10:06 10:05
+RD6 6,4 122,4 10:10 10:09 PC1
+RD6/RD1 11,3 117,5 10:18 10:17
+RD16 11,7 117,1 10:18 10:18
+RN6 13,4 115,4 10:21 10:20
+RN6 17,5 111,3 10:28 10:26
+RN5 19,9 108,9 10:32 10:30
+RN5 23,0 105,8 10:37 10:35
+RN5 26,4 102,4 10:42 10:40
+RN5 28,2 100,6 10:45 10:43
+RN5 33,9 94,9 10:54 10:52 RAVITO OUVERT
+RN5 36,4 92,4 10:59 10:56
+RN5 38,8 90,0 11:02 10:59
+RN5 41,8 87,0 11:07 11:04
+RN5 48,3 80,5 11:18 11:14 PC2 Station TOTAL
+RN5-RN6 50,1 78,7 11:21 11:17
+RN6 51,3 77,5 11:23 11:18 PM3
+RN6 60,2 68,6 11:37 11:32
+RN6 61,1 67,7 11:39 11:34
+128,8
+RN6 67,4 61,4 11:49 11:43
+RN6 73,8 55,0 11:59 11:53
+RD1 76,4 52,4 12:03 11:57
+RD1 83,2 45,6 12:14 12:08
+RN1 83,7 45,1 12:15 12:08
+RN1 84,9 43,9 12:17 12:10 PM3
+RN1 87,4 41,4 12:21 12:14
+RN1 91,4 37,4 12:28 12:20
+RN1-RD3 93,4 35,4 12:31 12:23
+RD3 94,3 34,5 12:32 12:25 PC3
+RD3-RN5 96,6 32,2 12:36 12:28
+RN5 98,4 30,4 12:39 12:31
+RN5 101,5 27,3 12:44 12:36
+RN5 105,0 23,8 12:50 12:41
+DUCOS
+Bois-Rouge
+Echangeur de Carrère
+Gare Routière
+Giratoire Château Paille
+FRANCOIS
+Giratoire Petite France
+Giratoire Martienne
+Sommet Chopotte
+ROBERT
+Giratoire Stade du Robert
+Giratoire Mansarde
+Côte de Augrain
+LAMENTIN
+Giratoire Pelletier
+Giratoire l'Union
+MARIN
+Giratoire Annette
+Croisée Fouquette
+Sommet côte Morne Courbaril
+VAUCLIN
+Giratoire Poirier
+SAINTE-LUCE
+Giratoire Céron
+Giratoire Gros-Raisin
+RIVIERE-PILOTE
+Giratoire Désert
+Giratoire Lafayette
+RIVIERE-SALEE : Marché
+Rue Joinville Saint-Prix
+Giratoire Lafayette
+Giratoire Petit-Bourg
+Petit-Bourg
+SAINT-ESPRIT
+Croisée EDF / Petit Paradis
+Bourg de Saint-Esprit
+FRANCOIS
+Croisée Saint-Laurent
+Manzo
+Giratoire Quatre Croisée
+Giratoire Cocotte Ducos
+RIVIERE-SALEE
+Giratoire Petit-Bourg
+9h40 : Appel des coureurs 10h00 Départ Réel
+Comité Régional Cycliste de Martinique
+SAMEDI 04 Juillet 2026
+RIVIERE-SALEE / MARIN
+Etape 1 8h00 : Rassemblement
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne Indications
+Giratoire Gendarmerie
+Giratoire Palais des Sports
+Echangeur Aéroport
+DUCOS
+Echangeur Carrère
+Giratoire Cocotte Ducos
+RIVIERE SALEE
+Giratoire Petit-Bourg
+s
+
+-- 4 of 31 --
+
+RN5 106,7 22,1 12:53 12:44
+RN5 112,4 16,4 13:02 12:52 RAVITO FERME
+RN5 114,8 113,9 13:06 12:56
+RN5 117,3 11,5 13:10 13:00
+RN5 120,3 8,5 13:15 13:05
+RN5 123,8 5,0 13:20 13:10 5 KMS
+RN5 124,9 3,9 13:22 13:12 3 KMS
+RN5 126,8 2,0 13:25 13:15
+RN5 127,1 1,7 13:26 13:15
+RN5/RD9 127,4 1,4 13:26 13:16
+RD9 127,8 1,0 13:27 13:16 1 KM
+RD9A 128,4 0,4 13:28 13:17
+VC 128,6 0,2 13:28 13:17
+VC 128,8 0,0 13:28 13:18 ARRIVEE
+ZONE de déchets :
+ARRIVEE FACE EX-ECOLE MIXTE A
+Giratoire Annette
+Giratoire Lafayette
+SAINTE-LUCE
+Les zones de déchet en cyclisme sont des espaces dédiés où les cyclistes peuvent déposer leurs déchets, tels
+que les bidons vides et les emballages. Ces zones sont clairement indiquées et visent à réduire la pollution le
+long des routes. Les coureurs doivent s'assurer que leurs déchets sont jetés dans ces zones, car les jets de
+bidons en dehors de ces zones sont interdits et peuvent entraîner des sanctions
+Centre Hospitalier
+Rue Victor Lamon
+Avenue Camille Darsière
+Giratoire Céron
+Giratoire Gros-Raisin
+RIVIERE PILOTE
+Giratoire Poirier
+MARIN
+Duprey
+Giratoire Mac Donald
+Giratoire Bonaro
+Pointe Borgnèse
+Giratoire Désert
+
+-- 5 of 31 --
+
+
+
+-- 6 of 31 --
+
+37 KM/H 39KM/H
+VC 9:50 9:50 DEPART FICTIF
+RD9 0,0 122 10:00 10:00 DEPART REEL
+RD9 1,0 121,0 10:01 10:01
+RD9 4,6 117,4 10:07 10:07
+RD9A 6,0 116,0 10:09 10:09 PC1 Station ESSO
+RD9A 6,2 115,8 10:10 10:09
+RD9A 6,3 115,7 10:10 10:09
+RD9 8,0 114,0 10:12 10:12
+RD9 11,6 110,4 10:18 10:17
+RD9/RN5 13,5 108,5 10:21 10:20
+RN5 15,8 106,2 10:25 10:24
+RN5 21,9 100,1 10:35 10:33
+RN5 24,8 97,2 10:40 10:38
+RN5 29,6 92,4 10:48 10:45
+RN5 34,5 87,5 10:55 10:53 RAVITO OUVERT
+RN5 37,0 85,0 11:00 10:56
+RN5 44,1 77,9 11:11 11:07
+RN5 47,2 74,8 11:16 11:12
+RN5/RD3 49,0 73,0 11:19 11:15
+RD3 50,7 71,3 11:22 11:18 PC2
+RD3/RN1 51,7 70,3 11:23 11:19
+RN1 53,5 68,5 11:26 11:22
+RN1 57,0 65,0 11:32 11:27
+RN1 59,4 62,6 11:36 11:31 PM3
+RN1/RD1 60,9 61,1 11:38 11:33
+RD1 64,0 58,0 11:43 11:38
+RD1 68,3 53,7 11:50 11:45 PM3
+RN6 71,1 50,9 11:55 11:49
+RN6 71,5 50,5 11:55 11:50
+RN6 75,1 46,9 12:01 11:55
+RN6 75,5 46,5 12:02 11:56
+RN6 79,5 42,5 12:08 12:02
+RN6/RN8 82,9 39,1 12:14 12:07
+RN7 83,6 38,4 12:15 12:08
+RN5 85,1 36,9 12:18 12:10
+RN5 90,1 31,9 12:26 12:18
+RN5/RN6 92,6 29,4 12:30 12:22
+RN6 93,6 28,4 12:31 12:24 PC3
+Comité Régional Cycliste de Martinique
+DIMANCHE 05 Juillet 2026
+MARIN / GROS-MORNE
+Etape 2 8h30 : Rassemblement
+9h40 : Appel des coureurs 10h00 Départ Réel
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne Indications
+Giratoire Céron
+MARIN
+Place de l'Eglise
+Giratoire Station CAP MARIN
+SAINTE-ANNE
+Giratoire Val-d'Or
+Croisée Fouquette
+Giratoire Annette
+RIVIERE-PILOTE
+Giratoire Poirier
+SAINTE-LUCE
+Giratoire Gros-Raisin
+Giratoire Poirier
+Giratoire Val-d'Or
+Rue Jean-Marie Tjibaou
+Mairie de Sainte-Anne
+Bois-Rouge
+Giratoire de Petit-Bourg
+DUCOS
+Giratoire Cocotte Ducos
+Echangeur de Carrère
+LAMENTIN
+Echangeur Aéroport
+Giratoire Palais des Sports
+Bourg Saint-Esprit
+RIVIERE-SALEE
+Carrefour EDF/Petit-Paradis
+Petit-Bourg
+Giratoire Petit-Bourg
+DUCOS
+Giratoire Cocotte Ducos
+Echangeur de Carrère
+Echangeur de Rivière-Salée
+Avenue Nelson Mandela
+Giratoire Poirier
+Bretelle Mansarde
+SAINT-ESPRIT
+Giratoire de l"Union
+Giratoire Pelletier
+ROBERT
+Sommet Côte de Augrain
+Four-à-Chaux
+FRANCOIS
+Sommet Côte de Chopotte
+Giratoire Martienne
+MARIN
+Bourg du François
+Bissette
+Croisée Saint-Laurent
+Giratoire Gendarmerie
+RIVIERE-SALEE
+
+-- 7 of 31 --
+
+RN6 94,8 27,2 12:33 12:25 PM3
+RN6 98,1 23,9 12:39 12:30
+RN6 101,8 20,2 12:45 12:36
+RD1 104,7 17,3 12:49 12:41 RAVITO FERME
+RD1 109,1 12,9 12:56 12:47
+RD1 111,4 10,6 13:00 12:51
+RN1 111,9 10,1 13:01 12:52
+RN1/RD1 112,9 9,1 13:03 12:53
+RDI 113,2 8,8 13:03 12:54
+RD1 117,0 5,0 13:09 13:00 5 KMS
+RD3 117,8 4,2 13:11 13:01 PM3
+RD3 118,0 4,0 13:11 13:01
+RD1 119,0 3,0 13:12 13:03 3 KMS
+RD1 120,4 1,6 13:15 13:05
+RD1 121,0 1,0 13:16 13:06 1 KM
+RD1 122,0 0,0 13:17 13:07 ARRIVEE
+ZONE de déchets :
+Vert-Pré
+ARRIVEE Face Carrefour Market
+Bellevue
+Sommet Côte de Bois-Rouge
+Giratoire Quatre-Croisées
+GROS-MORNE
+FRANCOIS
+Rue de la Liberté
+Giratoire Martienne
+Route du Vert-Pré
+Les zones de déchet en cyclisme sont des espaces dédiés où les cyclistes peuvent déposer leurs déchets, tels
+que les bidons vides et les emballages. Ces zones sont clairement indiquées et visent à réduire la pollution le
+long des routes. Les coureurs doivent s'assurer que leurs déchets sont jetés dans ces zones, car les jets de
+bidons en dehors de ces zones sont interdits et peuvent entraîner des sanctions
+Station Total Vert-Pré
+Direction Gros-Morne
+Chopotte
+ROBERT
+Four-à-Chaux
+Giratoire Stade du Robert
+Giratoire Mansarde
+Giratoire Maternité
+Ermitage
+
+-- 8 of 31 --
+
+
+
+-- 9 of 31 --
+
+37 KM/H 39KM/H
+RD9A 9:50 9:50 DEPART FICTIF
+RD9A 0,0 115,2 10:00 10:00 DEPART REEL
+RD9A 3,6 111,6 10:05 10:05
+RD9/RN5 5,5 109,7 10:08 10:08
+RN5 7,2 108,0 10:11 10:11 PC1 Station TOTAL
+RN5 13,7 101,5 10:22 10:21
+RN5 16,7 98,5 10:27 10:25
+RN5 21,6 93,6 10:35 10:33
+RN5 26,4 88,8 10:42 10:40
+RN5 29,1 86,1 10:47 10:44
+RN5 32,7 82,5 10:53 10:50 RAVITO OUVERT
+RN5 35,7 79,5 10:57 10:54
+RD3 37,7 77,5 11:01 10:58
+RD3 39,3 75,9 11:03 11:00 PC2
+RN1 40,2 75,0 11:05 11:01
+RD15 41,6 73,6 11:07 11:04
+RD13 42,9 72,3 11:09 11:06
+RD13 48,8 66,4 11:19 11:15
+RD13 48,0 67,2 11:17 11:13
+RD13 50,3 64,9 11:21 11:17
+RN1 50,6 64,6 11:22 11:17
+RN1 52,3 62,9 11:24 11:20
+RD42 52,5 62,7 11:25 11:20
+RN2 54,0 61,2 11:27 11:23
+RN2 54,3 60,9 11:28 11:23
+RN2 56,3 58,9 11:31 11:26 PC3 Stade
+RN2 60,6 54,6 11:38 11:33
+RN2 66,6 48,6 11:48 11:42 PM2
+RN2 75,9 39,3 12:03 11:56 PM2
+RN2 78,8 36,4 12:07 12:01
+RN2 83,0 32,2 12:14 12:07
+RN2 84,8 30,4 12:17 12:10
+RN3 91,9 23,3 12:29 12:21
+RN3 94,1 21,1 12:32 12:24 PM2
+RN3 RAVITO FERME
+RN3 102,2 13,0 12:45 12:37
+9h40 : Appel des coureurs 10h00 Départ Réel
+Comité Régional Cycliste de Martinique
+Lundi 06 Juillet 2026
+SAINTE-ANNE / MACOUBA
+Etape 3 8h30 : Rassemblement
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne Indications
+Croisée Fouquette
+Giratoire Annette
+RIVIERE-SALEE
+Echangeur de Riviere-Salée
+Giratoire Petit-Bourg
+RIVIERE-PILOTE
+Giratoire Poirier
+Giratoire Gros-Raisin
+SAINTE-LUCE
+Giratoire Céron
+SAINTE-ANNE
+Place de La Mairie
+Giratoire Val-d'Or
+Giratoire Poirier
+MARIN
+DUCOS
+Giratoire Cocotte Ducos
+FORT-DE-FRANCE.
+Echangeur Aéroport
+Giratoire Palais des Sports
+Giratoire Gendarmerie
+Giratoire Mahault
+Echangeur de Carrère
+Giratoire Jeanne-d'Arc
+Giratoire la Favorite
+LAMENTIN
+Giratoire La Meynard
+Echangeur de DILLON
+Avenue Maurice Bishop
+SCHOELCHER
+Rue Bouillée
+Pont de l'Abattoir
+Boulevard Robert ATTULY
+Place François MITTERAND
+Giratoire La Batelière
+Fond Lahaye
+SAINT-PIERRE
+Tunnel de l'Anse Turin
+Rue Abbé Grégoire
+MORNE-ROUGE
+Mairie du Morne Rouge
+Sommet Aileron
+CASE PILOTE
+Sommet Côte de Case Pilote
+BELLEFONTAINE
+Sommet Côte Morne-aux-Bœufs
+LE CARBET
+Bourg du Carbet
+AJOUPA BOUILLON
+Mairie Ajoupa Bouillon
+Aileron
+
+-- 10 of 31 --
+
+RN3
+RN3\RN1 106,0 9,2 12:51 12:43
+RN1 110,2 5,0 12:58 12:49 5 KMS
+RN1 111,5 3,7 13:00 12:51
+RD10 112,2 3,0 13:01 12:52 3 KMS
+RD10 114,2 1,0 13:05 12:55 1 KM
+RD10 115,2 0,0 13:06 12:57 ARRIVEE
+ZONE de déchets :
+MACOUBA
+Stade de Macouba
+ARRIVEE 50 PAS
+Les zones de déchet en cyclisme sont des espaces dédiés où les cyclistes peuvent déposer leurs déchets, tels
+que les bidons vides et les emballages. Ces zones sont clairement indiquées et visent à réduire la pollution le
+long des routes. Les coureurs doivent s'assurer que leurs déchets sont jetés dans ces zones, car les jets de
+bidons en dehors de ces zones sont interdits et peuvent entraîner des sanctions
+Sortie Bourg
+Giratoire Au Poteau
+BASSE-POINTE
+Entrée chemin Démare
+Mairie de Basse-Pointe
+Sortie Bourg
+
+-- 11 of 31 --
+
+
+
+-- 12 of 31 --
+
+37 KM/H 39KM/H
+RN1 9:50 9:50 DEPART FICTIF
+RD13 0,0 108,5 10:00 10:00 DEPART REEL
+RD13A 1,8 106,7 10:02 10:02
+RD13A 3,1 105,4 10:05 10:04
+RD14 5,3 103,2 10:08 10:08
+RN4 6,5 102,0 10:10 10:10
+RN4 9,3 99,2 10:15 10:14 PC1
+RD15 11,4 97,1 10:18 10:17
+RD15 14,2 94,3 10:23 10:21
+RN1 18,0 90,5 10:29 10:27
+RN1 19,9 88,6 10:32 10:30
+RN1 21,1 87,4 10:34 10:32
+RN1 24,9 83,6 10:40 10:38
+RD3A 25,8 82,7 10:41 10:39 PC2
+RD3 27,8 80,7 10:45 10:42
+RD3 31,0 77,5 10:50 10:47 RAVITO OUVERT
+RD3 34,2 74,3 10:55 10:52 PM2
+RD3 34,7 73,8 10:56 10:53
+RD1 38,0 70,5 11:01 10:58
+RD1 38,8 69,7 11:02 10:59
+RN4 41,7 66,8 11:07 11:04 PM3
+RN4/RN1 44,2 64,3 11:11 11:08
+RN1 47,5 61,0 11:17 11:13
+RN1 51,2 57,3 11:23 11:18 PM2
+RN1 54,4 54,1 11:28 11:23
+RN1 55,7 52,8 11:30 11:25
+RN1 58,0 50,5 11:34 11:29
+RN1 61,6 46,9 11:39 11:34
+RN1 63,6 44,9 11:43 11:37
+RN1 64,8 43,7 11:45 11:39
+RD15 66,1 42,4 11:47 11:41 PC3
+RD14 67,9 40,6 11:50 11:44
+RD14 71,3 37,2 11:55 11:49
+RN4 72,6 35,9 11:57 11:51
+RN4 75,3 33,2 12:02 11:55
+RN4 77,4 31,1 12:05 11:59
+RN4 79,5 29,0 12:08 12:02
+RN4 82,6 25,9 12:13 12:07 PM3
+RN4 84,7 23,8 12:17 12:10
+RN4 87,5 21,0 12:21 12:14
+FORT-DE-FRANCE.
+Mairie de Fort-de-France
+Ccial Carrefour Dillon
+Comité Régional Cycliste de Martinique
+Mardi 07 Juillet 2026
+FORT-DE-FRANCE / LORRAIN
+Etape 4 8h30 : Rassemblement
+9h40 : Appel des coureurs 10h00 Départ Réel
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne Indications
+Giratoire La meynard
+Jambette Beauséjour
+SAINT-JOSEPH
+Quatre Croisées Gondeau
+Croisée Abricot
+Croix Mission
+Giratoire Manioc
+LAMENTIN
+GROS-MORNE
+Giratoire Mahault
+Giratoire Mangot-Vulcin
+Giratoire l'Union
+Giratoire Pelletier
+Pelletier
+Giratoire Durocher
+VERT-PRE
+Route du Vert-Pré
+Ecole primaire du Vert-Pré
+Station Total
+Ecole de Bélème
+Rue de la Liberté
+Eglise du Gros-Morne
+Sommet Côte de Bassignac
+TRINITE
+ROBERT
+Carrefour Brin d'Amour
+Giratoire Desmarinières
+Bourg du Gros-Morne
+Sommet Côte de Bassignac
+Sommet Côte de Deux-Terres
+Sommet Côte de l'Estrade
+Giratoire Mahault
+Giratoire Jeanne-d'Arc
+Croix Mission
+Giratoire Manioc
+Ecole de Chapelle
+GROS-MORNE
+Croisée Palmiste
+SAINT-JOSEPH
+Croisée Gondeau
+Croisée Abricot
+TRINITE
+Giratoire Mansarde
+Sommet Côte Augrain
+LAMENTIN
+Giratoire Pelletier
+Giratoire l'Union
+Giratoire Gendarmerie
+
+-- 13 of 31 --
+
+RN4/RN1 90,0 18,5 12:25 12:18 RAVITO FERME
+RN1 91,4 17,1 12:28 12:20 PM3
+RN1 95,6 12,9 12:35 12:27
+RN1 97,7 10,8 12:38 12:30
+5 KMS
+RN1 103,0 5,5 12:47 12:38
+RN1 104,0 4,5 12:48 12:40 3 KMS
+RN1 107,1 1,4 12:53 12:44
+RN1 107,5 1,0 12:54 12:45 1 KM
+RN1 108,5 0,0 12:55 12:46 ARRIVEE
+ZONE de déchets :
+Giratoire Saint-James
+MARIGOT
+Sommet Plate-Forme
+Croisée Brin d'Amour
+Les zones de déchet en cyclisme sont des espaces dédiés où les cyclistes peuvent déposer leurs déchets, tels
+que les bidons vides et les emballages. Ces zones sont clairement indiquées et visent à réduire la pollution le
+long des routes. Les coureurs doivent s'assurer que leurs déchets sont jetés dans ces zones, car les jets de
+bidons en dehors de ces zones sont interdits et peuvent entraîner des sanctions
+Séguineau
+ARRIVEE MAIRIE DU LORRAIN
+Pharmacie du Marigot
+LORRAIN
+Giratoire Séguineau
+Sommet Brin d'Amour
+SAINTE-MARIE
+Station Total Belle Etoile
+
+-- 14 of 31 --
+
+
+
+-- 15 of 31 --
+
+37 KM/H 39KM/H
+RN1 9:50 9:50 DEPART FICTIF
+RN1 0,0 120,1 10:00 10:00 DEPART REEL
+RN1 1,0 119,1 10:01 10:01
+RN1 4,2 115,9 10:06 10:06
+RN1 4,3 115,8 10:06 10:06
+RN1/RD15 4,7 115,4 10:07 10:07
+RD15 7,7 112,4 10:12 10:11 PM2
+RD15 9,8 110,3 10:15 10:15
+RD15 11,8 108,3 10:19 10:18 PC1
+RD15 14,4 105,7 10:23 10:22
+RD15 18,1 102,0 10:29 10:27 PM3
+RD15 20,6 99,5 10:33 10:31
+RD15 23,1 97,0 10:37 10:35
+RN4 25,0 95,1 10:40 10:38
+RN4 28,1 92,0 10:45 10:43
+RN4 30,2 89,9 10:48 10:46 RAVITO OUVERT
+RN4 31,7 88,4 10:51 10:48
+RN4 32,4 87,7 10:52 10:49
+RD14 35,1 85,0 10:56 10:54
+RD14 36,3 83,8 10:58 10:55
+RD14 38,4 81,7 11:02 10:59
+RD15 41,8 78,3 11:07 11:04
+RD15/RN1 42,9 77,2 11:09 11:06
+RN1 44,2 75,9 11:11 11:08
+RN1 46,0 74,1 11:14 11:10 PC2 Station TOTAL
+RN1 49,8 70,3 11:20 11:16
+RN1 51,9 68,2 11:24 11:19 PM3
+RD1A 53,4 66,7 11:26 11:22
+RD1A 53,9 66,2 11:27 11:22
+RD1 56,3 63,8 11:31 11:26
+RD1 60,7 59,4 11:38 11:33
+RN6 63,2 56,9 11:42 11:37
+RD6 63,7 56,4 11:43 11:38
+RD6 66,4 53,7 11:47 11:42
+RD6 67,0 53,1 11:48 11:43
+RD6 71,8 48,3 11:56 11:50
+RD6/RN8 75,2 44,9 12:01 11:55
+RN8 78,5 41,6 12:07 12:00 PM3
+RN8/RD4 78,6 41,5 12:07 12:00
+RD4 81,3 38,8 12:11 12:05
+RD4/RN6 82,7 37,4 12:14 12:07
+Place des Fêtes
+Croisée EDF/Petit-Paradis
+DUCOS
+Sommet Côte Lapalun
+Giratoire Lourdes
+Ecole du Morne-Vert
+Giratoire Fond Savane
+SAINT-ESPRIT
+FRANCOIS
+Sommet Côte de Chopotte
+Giratoire Martienne
+Bourg du François
+Bissette
+Croisée Saint-Laurent
+Four-à-Chaux
+LAMENTIN
+Palmiste
+Giratoire Jeanne-d'Arc
+Giratoire Mahault
+Giratoire Gendarmerie
+Giratoire l'Union
+Giratoire Pelletier
+ROBERT
+Sommet Côte de Augrain
+Bretelle Mansarde
+Giratoire Stade
+Complexe Sportif Dominante
+Pain de Sucre
+Giratoire Reculée
+Entrée Mairie
+Croisée Gondeau
+Sommet Côte Morne-des-Esses
+GROS-MORNE
+Bois Lézarde
+Les Flamboyants
+Croisée Deux-Terres
+SAINT-JOSEPH
+Chapelle
+Giratoire Manioc
+Stade Henry MURANO
+Croix Mission
+Croisée Abricot
+Giratoire Séguineau
+MARIGOT
+Bourg du Marigot
+Rte des Ananas (à droite)
+SAINTE-MARIE
+Comité Régional Cycliste de Martinique
+Mercredi 08 Juillet 2026
+LORRAIN / SAINTE-MARIE
+Etape 5 8h30 : Rassemblement
+9h40 : Appel des coureurs 10h00 Départ Réel
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne Indications
+Bezaudin
+LORRAIN
+Mairie du LORRAIN
+Station ESSO
+
+-- 16 of 31 --
+
+RN6 86,1 34,0 12:19 12:12
+RN6 87,4 32,7 12:21 12:14
+RN5/RD3 89,3 30,8 12:24 12:17
+RD3 91,0 29,1 12:27 12:20 PC3
+RN1 91,9 28,2 12:29 12:21
+RN1 92,8 27,3 12:30 12:22
+RN1 94,3 25,8 12:32 12:25
+RN1 99,5 20,6 12:41 12:33
+RN1 101,4 18,7 12:44 12:36
+RN1 103,1 17,0 12:47 12:38 RAVITO FERME
+RN1 106,3 13,8 12:52 12:43 PM2
+RN1 110,5 9,6 12:59 12:50
+RN1 113,0 7,1 13:03 12:53
+RN1 114,3 5,8 13:05 12:55
+RN1 115,3 4,8 13:06 12:57 5 KMS
+RN1 117,1 3,0 13:09 13:00 3 KMS
+VC 118,7 1,4 13:12 13:02
+VC 119,2 0,9 13:13 13:03 1 KM
+VC 120,1 0,0 13:14 13:04 ARRIVEE
+ZONE de déchets :
+Giratoire l'Union
+Giratoire Pelletier
+Derrière Morne
+Entrée Sud Sainte-Marie
+ARRIVEE Rue E. DESPROGES
+ROBERT
+Sommet Côte de Augrain
+Giratoire Mansarde
+Sommet Côte de l'Estrade
+TRINITE
+Giratoire Desmarinières
+Carrefour Brin d'Amour
+Sommet Brin d'Amour
+SAINTE-MARIE
+Gymnage le Paladium
+Giratoire Mangot Vulcin
+Bois-Rouge
+Giratoire Carrère
+LAMENTIN
+Giratoire Gendarmerie
+Echangeur Aéroport
+Giratoire Palais des Sports
+Les zones de déchet en cyclisme sont des espaces dédiés où les cyclistes peuvent déposer leurs déchets, tels
+que les bidons vides et les emballages. Ces zones sont clairement indiquées et visent à réduire la pollution le
+long des routes. Les coureurs doivent s'assurer que leurs déchets sont jetés dans ces zones, car les jets de
+bidons en dehors de ces zones sont interdits et peuvent entraîner des sanctions
+Morne Figue
+
+-- 17 of 31 --
+
+
+
+-- 18 of 31 --
+
+37 KM/H 39KM/H
+VC DEPART FICTIF
+RN1 0,0 117,7 10:00 10:00 DEPART REEL
+RN1 6,9 110,8 10:11 10:10 PM3
+RN1 10,2 107,5 10:16 10:15 PC1
+RN1 14,5 103,2 10:23 10:22 PM2
+RN1 17,5 100,2 10:28 10:26
+RN1 18,9 98,8 10:30 10:29
+RN1 21,1 96,6 10:34 10:32
+RN1 24,7 93,0 10:40 10:38
+RN1 26,7 91,0 10:43 10:41
+RN1 28,2 89,5 10:45 10:43
+RD15 28,6 89,1 10:46 10:44
+RD15A 29,5 88,2 10:47 10:45
+VC 29,7 88,0 10:48 10:45
+RD3/RN5 31,5 86,2 10:51 10:48 RAVITO OUVERT
+RN6 33,0 84,7 10:53 10:50
+RN6 36,1 81,6 10:58 10:55 PM3
+RN6 39,5 78,2 11:04 11:00
+RN6 43,3 74,4 11:10 11:06 PC2 Station TOTAL
+RN6 45,2 72,5 11:13 11:09 PM3
+RN6 49,6 68,1 11:20 11:16
+RN6 56,0 61,7 11:30 11:26
+RN6 56,9 60,8 11:32 11:27
+RN6 64,5 53,2 11:44 11:39 PM3
+RN6/RN5 67,0 50,7 11:48 11:43
+RN5 68,8 48,9 11:51 11:45
+RN5 75,3 42,4 12:02 11:55
+RN5 78,2 39,5 12:06 12:00 PC3 Station TOTAL
+RN5 83,0 34,7 12:14 12:07
+RN5 87,9 29,8 12:22 12:15
+RN5 90,5 27,2 12:26 12:19
+RN5 96,0 21,7 12:35 12:27
+RN5 99,1 18,6 12:40 12:32
+RN5/RD3 100,7 17,0 12:43 12:34 RAVITO FERME
+RD3 102,6 15,1 12:46 12:37
+RN1 103,6 14,1 12:48 12:39
+RN1 105,5 12,2 12:51 12:42
+TRINITE
+Sommet Morne Poirier
+Giratoire Desmarinières
+ROBERT
+Giratoire Cocotte Ducos
+Echangeur de Carrère
+FRANCOIS
+LAMENTIN
+Echangeur Aéroport
+Giratoire Palais des Sports
+Giratoire Gendarmerie
+Giratoire l'Union
+Giratoire Annette
+RIVIERE-PILOTE
+Gare Routière
+Giratoire Petit-Bourg
+DUCOS
+SAINTE-LUCE
+Giratoire Gros-Raisin
+Giratoire Céron
+RIVIERE-SALEE
+Echangeur de Riviere-Salée
+Comité Régional Cycliste de Martinique
+Jeudi 09 Juillet 2026
+SAINTE-MARIE / FRANCOIS
+Etape 6 8h30 : Rassemblement
+10h00 Départ Réel
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne Indications
+9h45 : Appel des coureurs
+Echangeur Aéroport
+DUCOS
+Giratoire Carrère
+Sommet Côte de l'Estrade
+Giratoire Mansarde
+Sommet Côte Augrain
+LAMENTIN
+Giratoire Pelletier
+Giratoire l'Union
+Giratoire Gendarmerie
+Giratoire Mahault
+Giratoire Hôtel de Ville
+Rue Ernest DEPROGE
+Sortie Nord de Sainte-Marie
+Giratoire Quatre Croisées
+SAINTE-MARIE
+Giratoire Bas-Mission
+Zac de Manhity
+Sommet Côte de Bois-Rouge
+FRANCOIS
+Giratoire Poirier
+Giratoire Martienne
+Sommet Côte Morne Lacroix
+Giratoire Petite-France
+VAUCLIN
+Giratoire Château-Paille
+MARIN
+Sommet Côte de Massel
+Croisée Fouquette
+
+-- 19 of 31 --
+
+RN2006 109,7 8,0 12:57 12:48
+RN6 112,5 5,2 13:02 12:53 5 KMS
+RN6 114,7 3,0 13:06 12:56 3 KMS
+RN6/RD6 116,2 1,5 13:08 12:58
+RD6 116,7 1,0 13:09 12:59 1 KM
+RD6 117,1 0,6 13:09 13:00
+RD6 117,7 0,0 13:10 13:01 ARRIVEE
+ZONE de déchets :
+Sommet Côte Morne Pitault
+Giratoire Quatre Croisées
+Giratoire Martienne
+Cimetière
+hôtel de Ville
+ARRIVEE PLACE DES FETES
+Habitation la Victoire
+Les zones de déchet en cyclisme sont des espaces dédiés où les cyclistes peuvent déposer leurs déchets,
+tels que les bidons vides et les emballages. Ces zones sont clairement indiquées et visent à réduire la
+pollution le long des routes. Les coureurs doivent s'assurer que leurs déchets sont jetés dans ces zones, car
+les jets de bidons en dehors de ces zones sont interdits et peuvent entraîner des sanctions
+
+-- 20 of 31 --
+
+imprimer
+0 m 10 km 20 km 30 km 40 km 50 km 60 km 70 km 80 km 90 km 100 km 110 km
+0 m
+20 m
+40 m
+60 m
+80 m
+100 m
+120 m
+140 m
+160 m
+180 m
+200 m
+Cliquer pour
+afficher les
+types de
+voies
+ 	 
+3 km	3 km
+Leaflet, Editeur © OpenRunner | Maps © Thunderforest thunderforest.com - Data © OpenStreetMap contributors
+
+
+
+
+-- 21 of 31 --
+
+37 KM/H 39KM/H
+RD6 0,0 135,7 10:00 10:00 DEPART REEL
+RD6 3,0 132,7 10:04 10:04
+RD6 4,2 131,5 10:06 10:06
+RD6 8,2 127,5 10:13 10:12 PC1
+RD6/RN8 11,7 124,0 10:18 10:18
+12,4 123,3 10:20 10:19
+RN5 13,9 121,8 10:22 10:21
+RN5 15,9 119,8 10:25 10:24
+RN5/RD7 16,8 118,9 10:27 10:25
+RD7 19,1 116,6 10:30 10:29
+RD7 22,2 113,5 10:36 10:34
+RD7 23,1 112,6 10:37 10:35
+RD7 27,3 108,4 10:44 10:42
+RD7 29,6 106,1 10:48 10:45 PM2
+RD7 33,8 101,9 10:54 10:52 RAVITO OUVERT
+RD7 34,6 101,1 10:56 10:53
+RD7 37,1 98,6 11:00 10:57 PM3
+RD7 42,5 93,2 11:08 11:05
+RD7 46,1 89,6 11:14 11:10
+RD7A 48,9 86,8 11:19 11:15 PC2
+RD7A 49,1 86,6 11:19 11:15
+RD7 51,8 83,9 11:24 11:19
+VC 52,7 83,0 11:25 11:21
+RN5 53,0 82,7 11:25 11:21
+RN5 54,7 81,0 11:28 11:24
+RN8 55,1 80,6 11:29 11:24
+RN8/RD6 56,9 78,8 11:32 11:27
+RD5 60,0 75,7 11:37 11:32
+RD5 66,6 69,1 11:48 11:42 PM3
+RD5 74,4 61,3 12:00 11:54
+RD5/RN6 75,4 60,3 12:02 11:56
+RN6 76,3 59,4 12:03 11:57
+RN6 82,6 53,1 12:13 12:07
+RN6 89,0 46,7 12:24 12:16
+RD6 89,4 46,3 12:24 12:17
+RD6 92,2 43,5 12:29 12:21
+RD6 93,3 42,4 12:31 12:23
+RD6 97,4 38,3 12:37 12:29 PC3
+RD5 97,9 37,8 12:38 12:30
+RD5 104,8 30,9 12:49 12:41 PM3
+Carrefour Saint-Laurent
+Giratoire Château-Paille
+Giratoire Petite-France
+Giratoire Martienne
+Bourg du François cimetière
+Bissette
+Mairie de Saint-Esprit
+Sommet Côte de Valatte
+VAUCLIN
+Stade du Vauclin
+Gare Routière
+10h00 Départ Réel
+FRANCOIS
+Comité Régional Cycliste de Martinique
+VENDREDI 10 Juillet 2026
+FRANCOIS / SAINT-ESPRIT
+Etape 7 8h30 : Rassemblement
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne Indications
+RIVIERE-SALEE
+FRANCOIS
+Bourg des Trois-Ilets
+Anse-à-l'Ane
+ANSES-D'ARLETS
+Sommet Côte Gallochat
+Giratoire Anses-d'Arlet
+Grand-Anse
+Giratoire Vatable
+9h40 : Appel des coureurs
+RIVIERE-SALEE
+Giratoire Petit-Bourg
+Giratoire Lafayette
+Petit-Bourg
+Echangeur Rivière-Salée
+TROIS-ILETS
+Château Gaillard
+Carrefour EDF/Petit Paradis
+Mairie du François
+Bissette
+Carrefour Saint-Laurent
+SAINT-ESPRIT
+Place des Fêtes
+Giratoire Diamant Les Bains
+Giratoire Taupinière
+Sommet Côte l'Abbé LEROY
+LE DIAMANT
+Mairie de Rivière-Salée
+Giratoire Les Côteaux
+Médecin
+Giratoire Total
+Giratoire Lafayette
+Giratoire Petit-Bourg
+Petit-Bourg
+SAINT-ESPRIT
+Passage Ligne d'Arrivée
+Mairie du Saint-Esprit
+Sommet Côte de Valatte
+Croisée EDF/Petit Paradis
+SAINT-ESPRIT
+
+-- 22 of 31 --
+
+RD5 112,6 23,1 13:02 12:53
+RD5/RN6 113,6 22,1 13:04 12:54
+RN6 114,5 21,2 13:05 12:56
+RN6 120,9 14,8 13:16 13:06 RAVITO FERME
+RN6 127,2 8,5 13:26 13:15
+RD6 127,6 8,1 13:26 13:16
+RD6 130,7 5,0 13:31 13:21 5 KMS
+RD6 131,5 4,2 13:33 13:22
+RD6 132,7 3,0 13:35 13:24 3 KMS
+RD6 132,7 3,0 13:35 13:24
+RD6 134,7 1,0 13:38 13:27 1 KM
+RD6 135,7 0,0 13:40 13:28 ARRIVEE
+ZONE de déchets :
+Gare Routière
+Giratoire Château-Paille
+FRANCOIS
+Carrefour Saint-Laurent
+SAINT-ESPRIT
+Saint-Laurent
+ARRIVEE PLACE DES FETES
+Morne Vent
+Rivière Bambou
+Les zones de déchet en cyclisme sont des espaces dédiés où les cyclistes peuvent déposer leurs déchets,
+tels que les bidons vides et les emballages. Ces zones sont clairement indiquées et visent à réduire la
+pollution le long des routes. Les coureurs doivent s'assurer que leurs déchets sont jetés dans ces zones, car
+les jets de bidons en dehors de ces zones sont interdits et peuvent entraîner des sanctions
+Bourg du François
+Giratoire Petite-France
+Giratoire Martienne
+VAUCLIN
+Stade du Vauclin
+Bissette
+
+-- 23 of 31 --
+
+imprimer
+0 m 10 km 20 km 30 km 40 km 50 km 60 km 70 km 80 km 90 km100 km110 km120 km130 km
+0 m
+50 m
+100 m
+150 m
+200 m
+250 m
+300 m
+Cliquer pour
+afficher les
+types de
+voies
+ 	 
+3 km	3 km
+Leaflet, Editeur © OpenRunner | Maps © Thunderforest thunderforest.com - Data © OpenStreetMap contributors
+
+
+
+
+-- 24 of 31 --
+
+37 KM/H 39KM/H
+RD6 0,0 90,8 9:00 9:00 DEPART REEL
+RD6 2,0 88,8 9:03 9:03
+RD6 4,0 86,8 9:06 9:06
+RD16 4,3 86,5 9:06 9:06
+RN6 6,0 84,8 9:09 9:09
+RN6 9,7 81,1 9:15 9:14
+RN6 11,6 79,2 9:18 9:17 PM3
+RN6 22,4 68,4 9:36 9:34
+RN6 23,3 67,5 9:37 9:35
+RD5 24,3 66,5 9:39 9:37 RAVITO OUVERT
+RD5 27,5 63,3 9:44 9:42
+RD18 28,1 62,7 9:45 9:43 PM3
+RD18 34,8 56,0 9:56 9:53
+RN8 36,6 54,2 9:59 9:56
+RN8 36,9 53,9 9:59 9:56 PC1
+RN8 37,3 53,5 10:00 9:57
+RN8 44,0 46,8 10:11 10:07 PM2
+RN8 50,7 40,1 10:22 10:18
+RD6 51,3 39,5 10:23 10:18
+RD5 54,4 36,4 10:28 10:23
+RD5 61,1 29,7 10:39 10:34 PM3
+RD5 69,0 21,8 10:51 10:46
+RD5/RN6 69,8 21,0 10:53 10:47
+RN6 73,9 16,9 10:59 10:53
+RN6 77,3 13,5 11:05 10:58 RAVITO FERME
+RN6/RN5 79,8 11,0 11:09 11:02
+RN5 81,0 9,8 11:11 11:04
+RN5 85,8 5,0 11:19 11:12 5 KMS
+RN5 87,8 3,0 11:22 11:15 3KMS
+RN5/RD18 88,1 2,7 11:22 11:15
+RN8 89,8 1,0 11:25 11:18 1 KM
+RN8 90,0 0,8 11:25 11:18
+RN8 90,2 0,6 11:26 11:18
+RN8 90,8 0,0 11:27 11:19 ARRIVEE
+ZONE de déchets :
+Centre Culturel
+Poirier
+Giratoire Poirier
+Parcours Santé
+Rocher Zombi
+Avenue de l'Insurection
+ARRIVEE Mairie de RIVIERE-PILOTE
+MARIN
+Sommet Côte de Massel
+Croisée Fouquette
+Giratoire Annette
+Pointe Borgnèse
+RIVIERE-PILOTE
+Mairie Saint-Esprit
+Sommet Côte de Valatte
+VAUCLIN
+Stade du Vauclin
+Croisée Gare Routière
+Macabou
+Route de Régale
+Sommet Côte de Régal
+RIVIERE SALEE
+Petit-Bourg
+SAINT-ESPRIT
+Carrefour EDF/Petit-Paradis
+LIGNE D'ARRIVEE Mairie
+Giratoire Martienne
+Sommet Côte Morne Lacroix
+VAUCLIN
+Giratoire Château-Paille
+Gare Routière
+Stade du Vauclin
+RIVIERE-PILOTE
+Carrefour Raquette
+Sommet Côte de Josseau
+Carrefour Lourdes
+Rocher Zombi
+Giratoire Quatre Croisées
+SAINT-ESPRIT
+Saint-Laurent
+FRANCOIS
+Croisée Saint-Laurent
+Manzo
+Les zones de déchet en cyclisme sont des espaces dédiés où les cyclistes peuvent déposer leurs déchets,
+tels que les bidons vides et les emballages. Ces zones sont clairement indiquées et visent à réduire la
+pollution le long des routes. Les coureurs doivent s'assurer que leurs déchets sont jetés dans ces zones, car
+les jets de bidons en dehors de ces zones sont interdits et peuvent entraîner des sanctions
+8h40 : Appel des coureurs 9h00 Départ Réel
+Comité Régional Cycliste de Martinique
+SAMEDI 11 Juillet 2026
+SAINT-ESPRIT / RIVIERE-PILOTE
+Etape 8.1 7h30 : Rassemblement
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne Indications
+
+-- 25 of 31 --
+
+
+
+-- 26 of 31 --
+
+35 KM/H 37 KM/H
+RN8 0,0 9,8 15:30 15:30 DEPART REEL
+RN8 0,8 9,0 15:31 15:31
+RN8 2,8 7,0 15:34 15:34
+RN8 3,4 6,4 15:35 15:35
+RN8 4,3 5,5 15:37 15:36
+RN8 6,7 3,1 15:41 15:40
+RN8 6,8 3,0 15:41 15:41
+RD34 7,9 1,9 15:43 15:42
+RD34 8,0 1,8 15:43 15:42
+RD34 9,5 0,3 15:46 15:45
+RD34 9,8 0,0 15:46 15:45 ARRIVEE
+15h15 : Appel des coureurs 15h30 Départ Réel
+Comité Régional Cycliste de Martinique
+SAMEDI 11 Juillet 2026
+RIVIERE-PILOTE / LA RENEE
+Etape 8.2 : CLM 14h30 : Rassemblement
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne Indications
+ARRIVEE Ecole La Renée
+RIVIERE-PILOTE
+Cimetière
+La Mauny
+Préfontaine
+Baudel
+Sommet Régale
+Direction Vignette
+Carrefour Saint-Esprit \ La Renée
+Quartier La Renée
+Station TOTAL
+Carrefour Morne-Vent
+
+-- 27 of 31 --
+
+
+
+-- 28 of 31 --
+
+37 KM/H 39KM/H
+RN8 	DEPART FICTIF
+RN8
+RN5 	0,0 	139 13:00 13:00 	DEPART REEL
+RN5 	2,8 	136,2 13:04 13:04
+RN5 	7,7 	131,3 13:12 13:11
+RN5 	12,4 	126,6 13:20 13:19 	PC1
+RN5 	15,1 	123,9 13:24 13:23
+15,3 	123,7 13:24 13:23
+RD6/RN8 	17,2 	121,8 13:27 13:26
+RN8 	20,5 	118,5 13:33 13:31 	PM3
+RN8/RD4 	20,6 	118,4 13:33 13:31 DEBUT 1er TOUR
+RD4 	23,3 	115,7 13:37 13:35
+RD4/RN6 	24,7 	114,3 13:40 13:38
+RN6/RN5 	29,3 	109,7 13:47 13:45 RAVITO OUVERT
+RN5/RD3 	31,2 	107,8 13:50 13:48
+RD3 	33,0 	106,0 13:53 13:50 	PC2
+RD3 	33,3 	105,7 13:54 13:51
+RN1 	33,7 	105,3 13:54 13:51
+RN1 	34,7 	104,3 13:56 13:53
+RN1 	35,7 	103,3 13:57 13:54
+RN2006 	39,9 	99,1 14:04 14:01 	PM3
+RN6 	42,8 	96,2 14:09 14:05
+RD16 	43,0 	96,0 14:09 14:06
+RD6 	44,9 	94,1 14:12 14:09
+139,0
+RD6 	49,0 	90,0 14:19 14:15
+RD6/RN8 	52,5 	86,5 14:25 14:20
+RN8 	55,7 	83,3 14:30 14:25 	PM 3
+RN8 	55,8 	83,2 14:30 14:25 	FIN 1er TOUR
+RD4 	58,5 	80,5 14:34 14:30
+RD4/RN6 	59,9 	79,1 14:37 14:32
+RN8/RN5 	64,6 	74,4 14:44 14:39
+RN5/RD3 	66,5 	72,5 14:47 14:42
+RD3 	68,3 	70,7 14:50 14:45 	PC3
+RD3 	68,5 	70,5 14:51 14:45
+RN1 	69,0 	70,0 14:51 14:46
+RN1 	70,0 	69,0 14:53 14:47
+RN1 	71,1 	67,9 14:55 14:49
+RN2006 	75,2 	63,8 15:01 14:55 	PM 3
+RN6 	78,1 	60,9 15:06 15:00
+RD16 	78,3 	60,7 15:06 15:00
+RD6 	80,3 	58,7 15:10 15:03
+12h45 : Appel des coureurs 	13h00 Départ Réel
+RIVIERE-PILOTE
+Petit-Bourg
+Parcours
+N° De
+Route Itinéraires Kms
+parcourus
+Kms
+restants
+Heure de passage
+: Moyenne 	Indications
+SAINTE-LUCE
+Giratoire Gros-Raisin
+Giratoire Céron
+RIVIERE-SALEE
+Giratoire Lourdes
+Manzo
+Carrefour Saint-Laurent
+LE FRANCOIS
+Sommet Côte Morne Pitault
+Giratoire Quatre Croisées
+SAINT-ESPRIT
+Comité Régional Cycliste de Martinique
+DIMANCHE 12 Juillet 2026
+RIVIERE-PILOTE / DUCOS
+Etape 9 	11h30 : Rassemblement
+Carrefour EDF/Petit Paradis
+Giratoire Petit-Bourg
+Giratoire l'Union
+DUCOS
+Sommet Côte Lapalun
+Ecole du Morne-Vert
+Giratoire Fond-Savane
+Giratoire Carrère
+LE LAMENTIN
+Giratoire Lourdes
+Echangeur Aéroport
+Giratoire Palais des Sports
+Centre Ccial Place d'Armes
+Giratoire Centre Auto
+Giratoire Mangot Vulcin
+Echangeur Rivière-Salée
+Place du Marché
+Rocher Zombi
+Giratoire Poirier
+Bourg Saint-Esprit
+Carrefour EDF/Petit Paradis
+DUCOS
+Sommet Côte Lapalun
+Centre Ccial Place d'Armes
+Giratoire Centre Auto
+Giratoire Mangot Vulcin
+Giratoire l'Union
+LE FRANCOIS
+Giratoire Palais des Sports
+Ecole du Morne-Vert
+Giratoire Fond-Savane
+Giratoire Carrère
+LE LAMENTIN
+Echangeur Aéroport
+Sommet Côte Morne Pitault
+Manzo
+Carrefour Saint-Laurent
+Giratoire Quatre Croisées
+
+-- 29 of 31 --
+
+RD6 	84,3 	54,7 15:16 15:09
+RD6/RN8 	87,8 	51,2 15:22 15:15
+RN8 	91,0 	48,0 15:27 15:20 	PM 3
+RN8 	91,1 	47,9 15:27 15:20 FIN 2ème TOUR
+RD4 	93,8 	45,2 15:32 15:24
+RD4/RN6 	95,3 	43,7 15:34 15:26
+RN8/RN5 	100,0 	39,0 15:42 15:33
+RN5/RD3 	101,7 	37,3 15:44 15:36
+RD3 	103,6 	35,4 15:48 15:39
+RD3 	103,8 	35,2 15:48 15:39
+RN1 	104,2 	34,8 15:48 15:40
+RN1 	105,2 	33,8 15:50 15:41
+RN1 	106,3 	32,7 15:52 15:43
+RN2006 	110,5 	28,5 15:59 15:50
+RN6 	113,4 	25,6 16:03 15:54
+RD16 	113,6 	25,4 16:04 15:54 	RAVITO FERME
+RD6 	115,6 	23,4 16:07 15:57
+RD6 	119,6 	19,4 16:13 16:04
+RD6 	122,5 	16,5 16:18 16:08
+RD6/RN8 	123,1 	15,9 16:19 16:09
+RN8 	124,5 	14,5 16:21 16:11
+RN8 	126,3 	12,7 16:24 16:14
+RN8 	126,4 	12,6 16:24 16:14 FIN 3ème TOUR
+RD4 	129,2 	9,8 	16:29 16:18
+RD4/RN6 	130,6 	8,4 	16:31 16:20
+RN6 	134,0 	5,0 	16:37 16:26 	5 KMS
+RN6/RD8 	135,4 	3,6 	16:39 16:28
+RD8 	136,2 	2,8 	16:40 16:29 	3 KMS
+RD8 	137,7 	1,3 	16:43 16:31 	1 KM
+RD8 	138,5 	0,5 	16:44 16:33
+VC 	138,7 	0,3 	16:44 16:33
+VC 	139,0 	0,0 	16:45 16:33 	ARRIVEE
+ZONE de déchets :
+Les zones de déchet en cyclisme sont des espaces dédiés où les cyclistes peuvent déposer leurs déchets,
+tels que les bidons vides et les emballages. Ces zones sont clairement indiquées et visent à réduire la
+pollution le long des routes. Les coureurs doivent s'assurer que leurs déchets sont jetés dans ces zones, car
+les jets de bidons en dehors de ces zones sont interdits et peuvent entraîner des sanctions
+Bourg Saint-Esprit
+Carrefour EDF/Petit Paradis
+Giratoire Mangot Vulcin
+Giratoire l'Union
+LE FRANCOIS
+Sommet Côte Morne Pitault
+Giratoire Quatre Croisées
+LE LAMENTIN
+Echangeur Aéroport
+Giratoire Centre Auto
+Manzo
+Carrefour Saint-Laurent
+SAINT-ESPRIT
+Giratoire Lourdes
+Ecole du Morne-Vert
+Giratoire Fond-Savane
+Giratoire Carrère
+Carrefour EDF/Petit Paradis
+DUCOS
+Giratoire Palais des Sports
+Centre Ccial Place d'Armes
+Sommet Côte Lapalun
+SAINT-ESPRIT
+Bourg Saint-Esprit
+La Chassaing
+Résidence Les Digues
+Rue Zizine et Des Etages
+ARRIVEE PLACE DES FETES
+Giratoire La Marie
+Giratoire Lourdes
+BAC
+Sommet Côte Lapalun
+Ecole du Morne-Vert
+Giratoire Fond-Savane
+Giratoire Carrère
+Giratoire Savon
+DUCOS
+Bois Rouge
+
+-- 30 of 31 --
+
+
+
+-- 31 of 31 --
+

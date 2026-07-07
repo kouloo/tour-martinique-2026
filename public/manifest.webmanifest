@@ -1,0 +1,18 @@
+{
+  "name": "Tour de Martinique Cycliste 2026",
+  "short_name": "TCM 2026",
+  "description": "Suivi terrain mobile du Tour de Martinique cycliste 2026.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#071016",
+  "theme_color": "#071016",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
