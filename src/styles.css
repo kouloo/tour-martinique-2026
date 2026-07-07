@@ -145,8 +145,8 @@ select {
   display: none !important;
 }
 
-.leaflet-marker-icon[src$="marker-icon-2x.png"],
-.leaflet-marker-icon[src*="marker-icon-2x.png"] {
+.leaflet-marker-icon[src*="marker-icon"],
+.leaflet-marker-shadow[src*="marker-shadow"] {
   display: none !important;
 }
 

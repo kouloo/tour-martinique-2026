@@ -11,6 +11,16 @@ interface RoutePolylineProps {
   onRouteLoaded: (route: FeatureCollection | null) => void;
 }
 
+function keepRouteGeometryOnly(data: FeatureCollection): FeatureCollection {
+  return {
+    ...data,
+    features: data.features.filter((feature) => {
+      const type = feature.geometry?.type;
+      return type === 'LineString' || type === 'MultiLineString';
+    })
+  };
+}
+
 function getBottomSheetPadding(mode: MapHeightMode) {
   const height = window.innerHeight || 800;
   if (mode === 'peek') return Math.min(height * 0.24, 210) + 96;
@@ -45,9 +55,15 @@ export function RoutePolyline({ stage, sheetMode, onRouteLoaded }: RoutePolyline
       .then((response) => response.json())
       .then((data: FeatureCollection) => {
         if (ignore) return;
-        setRoute(data);
-        onRouteLoaded(data);
-        fitRouteIntoVisibleMap(map, data, sheetMode);
+        const routeOnly = keepRouteGeometryOnly(data);
+        if (routeOnly.features.length === 0) {
+          setRoute(null);
+          onRouteLoaded(null);
+          return;
+        }
+        setRoute(routeOnly);
+        onRouteLoaded(routeOnly);
+        fitRouteIntoVisibleMap(map, routeOnly, sheetMode);
       })
       .catch(() => onRouteLoaded(null));
 
