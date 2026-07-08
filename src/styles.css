@@ -91,6 +91,80 @@ select {
   outline-offset: 3px;
 }
 
+.install-prompt {
+  position: absolute;
+  z-index: 900;
+  left: 14px;
+  right: 14px;
+  bottom: calc(14px + env(safe-area-inset-bottom));
+  display: grid;
+  gap: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 22px;
+  padding: 14px;
+  color: #f4fdff;
+  background: rgba(24, 26, 26, 0.88);
+  box-shadow: 0 20px 54px rgba(0, 0, 0, 0.46);
+  backdrop-filter: blur(24px) saturate(140%);
+}
+
+.install-prompt__eyebrow {
+  margin-bottom: 4px;
+  color: #b5ff91;
+  font-size: 0.72rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.install-prompt h2 {
+  margin-bottom: 6px;
+  font-size: 1.08rem;
+}
+
+.install-prompt p {
+  margin-bottom: 0;
+  color: #d6eef3;
+  line-height: 1.42;
+}
+
+.install-prompt__actions {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+}
+
+.install-prompt__actions button {
+  min-height: 48px;
+  border: 0;
+  border-radius: 16px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.install-prompt__primary {
+  color: #071016;
+  background: #b5ff91;
+}
+
+.install-prompt__secondary {
+  color: #f4fdff;
+  background: #343535;
+}
+
+.install-prompt__actions button:only-child {
+  grid-column: 1 / -1;
+}
+
+.install-prompt__actions button:active {
+  transform: scale(0.99);
+}
+
+.install-prompt__actions button:focus-visible {
+  outline: 3px solid rgba(249, 255, 106, 0.9);
+  outline-offset: 3px;
+}
+
 .split-layout {
   position: relative;
   height: 100%;
