@@ -16,6 +16,31 @@ import { useMapHeightMode } from './hooks/useMapHeightMode';
 import { useNearestRoutePoint } from './hooks/useNearestRoutePoint';
 
 export function App() {
+  const [hasEntered, setHasEntered] = useState(false);
+
+  if (!hasEntered) {
+    return (
+      <MobileShell>
+        <section className="home-screen" aria-label="Accueil TCM 2026">
+          <div className="home-screen__content">
+            <h1>TCM 2026</h1>
+            <p>
+              Cette application n'est pas l'application officielle du Tour cycliste. Elle a été créée pour aider a
+              suivre le programme du tour. Les parcours présentés sont une approximation des parcours réels.
+            </p>
+            <button className="home-screen__button" type="button" onClick={() => setHasEntered(true)}>
+              CONTINUER
+            </button>
+          </div>
+        </section>
+      </MobileShell>
+    );
+  }
+
+  return <TourTracker />;
+}
+
+function TourTracker() {
   const current = useCurrentStage(stages);
   const mapMode = useMapHeightMode();
   const geo = useGeolocation();
