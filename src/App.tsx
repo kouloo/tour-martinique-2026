@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import type { FeatureCollection } from 'geojson';
 import { Analytics } from '@vercel/analytics/react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { MobileShell } from './components/MobileShell';
 import { SplitMapLayout } from './components/SplitMapLayout';
 import { StageMap } from './components/StageMap';
@@ -35,6 +36,7 @@ export function App() {
           </div>
         </section>
         <Analytics />
+        <SpeedInsights />
       </MobileShell>
     );
   }
@@ -43,6 +45,7 @@ export function App() {
     <>
       <TourTracker />
       <Analytics />
+      <SpeedInsights />
     </>
   );
 }
