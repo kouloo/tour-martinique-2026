@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import type { FeatureCollection } from 'geojson';
+import { Analytics } from '@vercel/analytics/react';
 import { MobileShell } from './components/MobileShell';
 import { SplitMapLayout } from './components/SplitMapLayout';
 import { StageMap } from './components/StageMap';
@@ -33,11 +34,17 @@ export function App() {
             </button>
           </div>
         </section>
+        <Analytics />
       </MobileShell>
     );
   }
 
-  return <TourTracker />;
+  return (
+    <>
+      <TourTracker />
+      <Analytics />
+    </>
+  );
 }
 
 function TourTracker() {
